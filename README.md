@@ -1,0 +1,1 @@
+# gw-activity-db-map
